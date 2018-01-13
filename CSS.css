@@ -1,0 +1,72 @@
+
+
+body,div,table,tr,td,ul,li{ margin:0px; padding: 0px;}
+
+.hover{background-color: #2992da; color:#ffffff;}
+.hover td a{color:#ffffff;}
+
+select{height: 23px;border:1px solid #95B8E7;border-radius: 5px;}
+textarea{border:1px solid #95B8E7;border-radius: 5px;}
+
+#fans{
+	background-color:white;
+	margin:20px 20px auto 20px;
+	font-size:14px;
+	padding-left:20px;
+}
+#introduction{
+	background-color:white;
+	margin:20px 20px auto 20px;
+	padding-left:15px;
+	font-size:14px;
+	padding-right:5px;
+}
+#briefDairy1{
+	background-color:white;
+	margin:20px 20px auto 20px;
+	padding:5px 10px 5px 15px;
+	line-height:20px;
+}
+#briefDairy2{
+	background-color:white;
+	margin:20px 20px auto 20px;
+	padding:5px 10px 5px 15px;
+	line-height:20px;
+}
+
+#Dairy1{
+	background-color:white;
+	line-height:22px;
+	padding-left:15px;
+	margin-bottom:15px;
+	
+}
+
+#Dairy2{
+	background-color:white;
+	padding-left:15px;
+	margin-bottom:15px;
+	
+}
+#Dairy2_{
+	background-color:#ADD8E6;
+	margin:auto 23px 10px 15px;
+	line-height:22px
+	
+}
+
+#album{
+	border-style:solid;
+	border-color:white;
+	margin-left:10px;
+	margin-right:10px;
+	margin-top:50px;
+}
+#game{
+	border-style:solid;
+	border-color:white;
+	margin-left:10px;
+	margin-right:10px;
+	margin-top:50px;
+	padding-left:15px;
+}
